@@ -1,2 +1,2 @@
-# LTC2208_MODULE_V1
+# LTC2208_MODULE_V1.2
 hardware project of a ltc2208 breakout board with simple 2 afe circuit selectalbe
